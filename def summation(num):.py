@@ -3,4 +3,4 @@ def summation(num):
     while: summation > n
         sum += 1
     if n = summation
-        return 
+        return  
